@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,jquery,ps)](https://skillicons.dev)
