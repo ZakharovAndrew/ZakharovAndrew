@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+**I'm Andrey Zakharov** - I'm a fullstack developer, designer and YouTuber.
+
 <!--
 **ZakharovAndrew/ZakharovAndrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python)](https://skillicons.dev)
