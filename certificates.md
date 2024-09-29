@@ -17,3 +17,6 @@ https://gb.ru/certificates/441309
 
 Тест по Python. Начальный уровень
 https://gb.ru/certificates/912676
+
+Регулярные выражения и ООП в Python
+https://gb.ru/certificates/2445565
