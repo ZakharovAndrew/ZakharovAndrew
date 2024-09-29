@@ -20,3 +20,6 @@ https://gb.ru/certificates/912676
 
 Регулярные выражения и ООП в Python
 https://gb.ru/certificates/2445565
+
+Python. Уровень 1
+https://gb.ru/certificates/2448206
