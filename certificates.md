@@ -13,4 +13,7 @@ https://gb.ru/certificates/441309
 Основы программирования на JavaScript
 [https://gb.ru/certificates/2790923](https://gb.ru/certificates/2790923)
 
+## ![My Skills](https://skillicons.dev/icons?i=python) Python
 
+Тест по Python. Начальный уровень
+https://gb.ru/certificates/912676
