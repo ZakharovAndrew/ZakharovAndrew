@@ -2,6 +2,15 @@
 
 Здесь буду собраны все сертификаты.
 
+## ![My Skills](https://skillicons.dev/icons?i=php) PHP
+
+PHP. Средний уровень
+https://gb.ru/certificates/579411
+
+Тест «PHP. Уровень 1
+https://gb.ru/certificates/571858
+
+
 ## ![My Skills](https://skillicons.dev/icons?i=js) JavaScript
 
 JavaScript. Средний уровень
