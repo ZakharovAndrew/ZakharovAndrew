@@ -35,7 +35,7 @@ https://gb.ru/certificates/2445565
 Python. Уровень 1
 https://gb.ru/certificates/2448206
 
-## ![My Skills](https://skillicons.dev/icons?i=python)
+## ![My Skills](https://skillicons.dev/icons?i=html) HTML
 
 HTML&CSS. Начальный уровень
 https://gb.ru/certificates/441094
