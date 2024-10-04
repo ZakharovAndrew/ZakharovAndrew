@@ -45,3 +45,8 @@ https://gb.ru/certificates/442962
 
 HTML&CSS. Начальный уровень
 https://gb.ru/certificates/441094
+
+## ![My Skills](https://skillicons.dev/icons?i=linux) Linux
+
+Linux. Начальный уровень
+https://gb.ru/certificates/936354
