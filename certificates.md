@@ -37,5 +37,8 @@ https://gb.ru/certificates/2448206
 
 ## ![My Skills](https://skillicons.dev/icons?i=html) HTML
 
+HTML&CSS. Средний уровень
+https://gb.ru/certificates/442962
+
 HTML&CSS. Начальный уровень
 https://gb.ru/certificates/441094
