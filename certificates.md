@@ -50,3 +50,8 @@ https://gb.ru/certificates/441094
 
 Linux. Начальный уровень
 https://gb.ru/certificates/936354
+
+## ![My Skills](https://skillicons.dev/icons?i=swift) Swift
+
+Основы языка Swift
+https://gb.ru/certificates/442647
