@@ -1,6 +1,6 @@
 # Certificates
 
-Здесь буду собраны все сертификаты.
+Здесь буду собраны все сертификаты. Постепенно буду пополнять.
 
 ## ![My Skills](https://skillicons.dev/icons?i=php) PHP
 
