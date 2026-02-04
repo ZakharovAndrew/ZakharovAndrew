@@ -206,3 +206,25 @@
 
 - Маркетинг от А до Я: 80 концепций, которые должен знать каждый менеджер, Филип Котлер
 - Психолодия влияния - Роберт Чалдини
+
+# Лучшие книги про технологии, бизнес и инновации — авторитетное издание Business Insider составило топ 2025 года.
+
+— «Burn Book: A Tech Love Story — Kara Swisher»: мемуары журналистки о становлении Big Tech и закулисье Кремниевой долины.
+
+— «The Winner’s Curse: Behavioral Economics Anomalies Then and Now — Richard H. Thaler, Alex O. Imas»: обновлённая классика поведенческой экономики и её влияния на инвестиции.
+
+— «Doppelganger: A Trip into the Mirror World — Naomi Klein»: о влиянии интернета и ИИ на дезинформацию и раздвоение идентичности.
+
+— «Gwyneth: The Biography — Amy Odell»: история превращения Гвинет Пэлтроу из актрисы в успешный бизнес-бренд.
+
+— «Unit X: How the Pentagon and Silicon Valley Are Transforming the Future of War — Raj M. Shah, Christopher Kirchhoff»: как технологии Силиконовой долины меняют современную войну.
+
+— «What Do You Do With an Idea? — Kobi Yamada»: история о том, как идеи рождаются, растут и меняют мир.
+
+— «Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism — Sarah Wynn-Williams»: взгляд изнутри на Meta и цену власти в Big Tech.
+
+— «1929: Inside the Greatest Crash in Wall Street History — Andrew Ross Sorkin»: разбор крупнейшего финансового краха 1929 года и параллели с современными пузырями.
+
+— «No More Tears: The Dark Secrets of Johnson & Johnson — Gardiner Harris»: расследование корпоративных скандалов одного из крупнейших мировых брендов.
+
+— «Chip War: The Fight for the World’s Most Critical Technology — Chris Miller»: история полупроводников как основы глобальной экономики и геополитики.
